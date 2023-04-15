@@ -28,7 +28,7 @@ Rachit = Client(
 START = f"""
 Hui! I am Kimjikoin 👀 An advanced Google Bot 
 
-⚡ Main - @MarieNews.
+⚡ Main - @kimjikoin.
 ⚡ Support - @KimjikoinSupport
 
 U can Use me By Adding `Kimjikoin` Before Your Question.
@@ -71,7 +71,7 @@ PNG_BTN = [
      ],
 ]
 SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('SOURCE', url=f"{SOURCE}")]])
-HELP_READ = "I can Clear Your Doubt, Your Questions, Your Homework Question 😂 Anything U want u can ask me just Type kimjikoin before ur question ~ Example Type - `fcrxta Write a python code to calculate the given numbers.`"
+HELP_READ = "I can Clear Your Doubt, Your Questions, Your Homework Question 😂 Anything U want u can ask me just Type kimjikoin before ur question ~ Example Type - `Kimjikoin Write a python code to calculate the given numbers.`"
 HELP_BACK = [
     [
            InlineKeyboardButton(text="𝙱𝙰𝙲𝙺", callback_data="HELP_BACK"),
